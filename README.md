@@ -65,7 +65,7 @@ RegisterNumber: 23000505
 code: ![Screenshot 2023-11-27 183354](https://github.com/ramya23000505/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149370791/b70bd678-583f-4ffd-8aa7-b806abf49076)
 
 Logic symbol & Truthtable
-(https://github.com/ramya23000505/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149370791/72443e2d-345e-4cf3-b6cf-59159adc8070)
+![WhatsApp Image 2023-11-27 at 18 35 27_099865ff](https://github.com/ramya23000505/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149370791/b4fe354e-ed6a-4082-98c9-69bf14a422d5)
 
 RTL realization
 ![Screenshot 2023-11-27 182037](https://github.com/ramya23000505/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149370791/ac14e002-567d-45ce-979f-c1130af9acb5)
