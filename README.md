@@ -64,7 +64,8 @@ Check all the gates following the same procedure.
 
 ## Program:
 
- ![Screenshot 2023-11-27 183354](https://github.com/ramya23000505/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149370791/b70bd678-583f-4ffd-8aa7-b806abf49076)
+![Screenshot 2023-12-02 154243](https://github.com/ramya23000505/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149370791/4a2e756c-4e63-4a2a-9f2a-7ed0700ca001)
+
 
 ## Truth table
 
@@ -72,12 +73,12 @@ Check all the gates following the same procedure.
 
 ## RTL realization
 
-![Screenshot 2023-11-27 182037](https://github.com/ramya23000505/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149370791/ac14e002-567d-45ce-979f-c1130af9acb5)
+![Screenshot 2023-12-02 154315](https://github.com/ramya23000505/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149370791/1120b4b8-1979-48b5-bb79-240d85e7acc7)
+
 
 ## Time Diagram
-![image](https://github.com/ramya23000505/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149370791/9cde056f-780b-48b2-8c70-ce351310b08c)
 
-
+![Screenshot 2023-12-02 154336](https://github.com/ramya23000505/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149370791/5ed684f2-ac81-4f30-9675-c6bf6e80741f)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
