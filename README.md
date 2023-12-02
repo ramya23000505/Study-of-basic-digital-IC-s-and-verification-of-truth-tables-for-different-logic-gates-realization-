@@ -61,9 +61,10 @@ Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
-Program:
 
-code: ![Screenshot 2023-11-27 183354](https://github.com/ramya23000505/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149370791/b70bd678-583f-4ffd-8aa7-b806abf49076)
+## Program:
+
+ ![Screenshot 2023-11-27 183354](https://github.com/ramya23000505/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149370791/b70bd678-583f-4ffd-8aa7-b806abf49076)
 
 ## Truth table
 
@@ -73,7 +74,7 @@ code: ![Screenshot 2023-11-27 183354](https://github.com/ramya23000505/Study-of-
 
 ![Screenshot 2023-11-27 182037](https://github.com/ramya23000505/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149370791/ac14e002-567d-45ce-979f-c1130af9acb5)
 
-## time Diagram
+## Time Diagram
 ![Screenshot 2023-11-27 183131](https://github.com/ramya23000505/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149370791/3ef3b025-cb12-436e-9b8e-96690ff004fc)
 
 
